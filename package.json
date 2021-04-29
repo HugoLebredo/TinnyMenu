@@ -1,7 +1,7 @@
 {
   "name": "console-menu-app",
   "version": "0.0.1",
-  "description": "little task manager by console",
+  "description": "just a small task manager by console",
   "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
